@@ -9,7 +9,7 @@
 	"dependencies": {
 		"date-fns": "^4.1.0",
 		"date-fns-tz": "^3.2.0",
-		"preact": "^10.26.9",
+		"preact": "^10.27.1",
 		"preact-iso": "^2.9.2",
 		"preact-render-to-string": "^6.5.13"
 	},
@@ -18,7 +18,7 @@
 		"eslint": "^9.33.0",
 		"eslint-config-preact": "^2.0.0",
 		"typescript": "^5.9.2",
-		"vite": "^7.0.4"
+		"vite": "^7.1.3"
 	},
 	"eslintConfig": {
 		"extends": "preact"
