@@ -35,7 +35,6 @@ function WorldClockSlider() {
   const cities: City[] = [
     { name: "Portland", timeZone: "America/Los_Angeles" },
     { name: "New York", timeZone: "America/New_York" },
-    { name: "Reykjavik", timeZone: "Atlantic/Reykjavik" },
     { name: "London", timeZone: "Europe/London" },
     { name: "Helsinki", timeZone: "Europe/Helsinki" },
     { name: "Singapore", timeZone: "Asia/Singapore" },
